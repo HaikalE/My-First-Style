@@ -1,0 +1,23 @@
+header{
+    background-color:#b3b3b3;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+a{
+    background-color: aqua;
+}
+h2{
+    color: green;
+}
+section{
+    background-color: #b3b3b3;
+}
+a{
+    color:brown;
+}
+.left{
+    display: none;
+}
+/*#b3b3b3;*/
